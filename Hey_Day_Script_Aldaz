@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# User Prompt
+echo "Welcome to Auburn's annual tradtion, Hey Day! Enter your name!//"
+read name
+
+# Response 
+echo "War Eagle, $name! Have a Happy Hey Day!"
+
